@@ -2,7 +2,7 @@
   <img src="https://telegra.ph/file/68d28011b2bc356b5db01.png" alt="Movie Night Logo">
 </p>
 <h1 align="center">
-  <b> Movie NightV2.0 </b>
+  <b> Movie NightV1.0 </b>
 </h1>
 
 
